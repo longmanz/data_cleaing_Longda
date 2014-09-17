@@ -1,4 +1,4 @@
-Data-Cleaing by Longda
+Data-Cleaning by Longda
 ===================
 This repo contains 3 files.
 
